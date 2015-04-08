@@ -1,0 +1,26 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=board
+*Date=05:16:45
+*CreatedBy=Fritzing 0.9.1b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;72.3567;-13.141;45;Bottom; 
+2;;;61.1828;-12.4425;0;Bottom;TXT1
+3;;;61.3347;-3.91553;0;Bottom;TXT1
+4;;battery-aa-kit;28.1788;-6.57312;0;Bottom; 
+5;;THT;62.7228;-16.7331;-180;Bottom;RST
+6;;THT;65.2628;-6.57312;0;Bottom;PRGM
+7;;;18.555;-21.1076;0;Bottom;TXT2
+8;;;25.6105;-1.8459;0;Bottom;TXT2
+9;;battery-aa-kit;28.1788;-16.7331;0;Bottom; 
+10;;;61.9118;-9.77164;0;Bottom;TXT1
+11;;THT;58.9128;-7.84312;0;Bottom;Outputs1
